@@ -1,1 +1,1 @@
-# crud-operations in django
+# crud-operations in python-django
